@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // config wizard for micli
 // Geminiさんありがとう
 
