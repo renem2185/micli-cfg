@@ -3,6 +3,10 @@
 ## Installation (Temporary!)
 
 ``` bash
+## with npx
+$ npx github:renem2185/micli-cfg
+
+## local install
 $ sudo npm install -g git+https://github.com/renem2185/micli-cfg.git
 ```
 
