@@ -1,0 +1,12 @@
+{
+  "name": "micli-cfg",
+  "version": "0.1.0",
+  "description": "micli Misskey client for CLI: Configuration wizard",
+  "license": "MIT",
+  "author": "Rene Murakumo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
