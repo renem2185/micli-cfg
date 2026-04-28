@@ -11,7 +11,7 @@ $ sudo npm install -g git+https://github.com/renem2185/micli-cfg.git
 ``` bash
 $ micli-cfg --lang en
 
-(interactive shell in English...)
+### interactive shell in English...
 ```
 
 ## つかいかた (Japanese)
@@ -19,7 +19,7 @@ $ micli-cfg --lang en
 ``` bash
 $ micli-cfg --lang jp
 
-(以下、日本語対話シェル)
+### 以下、日本語対話シェル
 ```
 
 ## Note
