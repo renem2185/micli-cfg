@@ -56,7 +56,10 @@ const writeEnv = (path, env) => {
   
   try {
     mkdirSync(dir, { recursive: true });
-    writeFileSync(path, JSON.stringify(env, null, 2));
+    writeFileSync(path, JSON.stringify(env, null, 2), { 
+      mode: 0o600,
+      encoding: 'utf8'
+    });
   } catch (err) {
     console.error(`failed to write env file: `, err.message);
     process.exit(1);
