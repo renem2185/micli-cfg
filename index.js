@@ -134,8 +134,8 @@ const main = async () => {
     'read:messaging',
     'write:messaging',
     'write:notes',
-    'read:reaction',
-    'write:reaction',
+    'read:reactions',
+    'write:reactions',
     'read:federation'
   ].join(',');
 
